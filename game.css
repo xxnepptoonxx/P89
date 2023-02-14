@@ -1,6 +1,7 @@
 body
 {
-	background: lightblue;
+	background: rgb(239, 51, 91);
+	text-align:center
 }
 
 	.login_div1 , .login_div2
@@ -27,10 +28,11 @@ body
 }
 #output
 {
-background: #0000ff
-border-radius: 10px; 
+background: white;
+border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
 }
+
